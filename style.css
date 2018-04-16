@@ -1,15 +1,15 @@
- h1{
-  font-family: verdana;
+ h1{body 
+  font-family: 'Amatic SC';
   color:pink;
 }
 
  h2{
-  font-family: verdana;
+  font-family:'Amatic SC' ;
   color:pink;
 }
 
 p{
- font-family: verdana;
+ font-family:'Amatic SC';
 }
 
 body {
